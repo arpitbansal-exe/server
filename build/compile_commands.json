@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/media/bansal/cllg/server/build",
+  "command": "/usr/bin/g++  -I/media/bansal/cllg/server/include -I/media/bansal/cllg/server/src -I/usr/local/include/bcrypt -isystem /usr/include/jsoncpp -g -std=gnu++17 -o CMakeFiles/simple_server.dir/src/controllers/AuthController.cpp.o -c /media/bansal/cllg/server/src/controllers/AuthController.cpp",
+  "file": "/media/bansal/cllg/server/src/controllers/AuthController.cpp",
+  "output": "CMakeFiles/simple_server.dir/src/controllers/AuthController.cpp.o"
+},
+{
+  "directory": "/media/bansal/cllg/server/build",
+  "command": "/usr/bin/g++  -I/media/bansal/cllg/server/include -I/media/bansal/cllg/server/src -I/usr/local/include/bcrypt -isystem /usr/include/jsoncpp -g -std=gnu++17 -o CMakeFiles/simple_server.dir/src/controllers/SimpleController.cpp.o -c /media/bansal/cllg/server/src/controllers/SimpleController.cpp",
+  "file": "/media/bansal/cllg/server/src/controllers/SimpleController.cpp",
+  "output": "CMakeFiles/simple_server.dir/src/controllers/SimpleController.cpp.o"
+},
+{
+  "directory": "/media/bansal/cllg/server/build",
+  "command": "/usr/bin/g++  -I/media/bansal/cllg/server/include -I/media/bansal/cllg/server/src -I/usr/local/include/bcrypt -isystem /usr/include/jsoncpp -g -std=gnu++17 -o CMakeFiles/simple_server.dir/src/main.cpp.o -c /media/bansal/cllg/server/src/main.cpp",
+  "file": "/media/bansal/cllg/server/src/main.cpp",
+  "output": "CMakeFiles/simple_server.dir/src/main.cpp.o"
+},
+{
+  "directory": "/media/bansal/cllg/server/build",
+  "command": "/usr/bin/g++  -I/media/bansal/cllg/server/include -I/media/bansal/cllg/server/src -I/usr/local/include/bcrypt -isystem /usr/include/jsoncpp -g -std=gnu++17 -o CMakeFiles/simple_server.dir/src/models/User.cpp.o -c /media/bansal/cllg/server/src/models/User.cpp",
+  "file": "/media/bansal/cllg/server/src/models/User.cpp",
+  "output": "CMakeFiles/simple_server.dir/src/models/User.cpp.o"
+}
+]
